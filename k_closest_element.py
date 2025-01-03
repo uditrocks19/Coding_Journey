@@ -1,4 +1,4 @@
-'''Find k closest element to a number in x in a sorted array'''
+'''Find k closest element to a number  x in a sorted array'''
 import heapq
 
 
